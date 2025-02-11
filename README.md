@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Pu-tfUhR)
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -84,3 +85,14 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+Hecho por: Juan Felipe Vega Loaiza
+ 
+ ## Juego de la Rana
+ ![Descripción de la imagen](importante-1.png)
+ ## Juego del jardin 
+ ![Descripción de la imagen](importante-2.png)
+
+ Pagina web: https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-mrvegal/
+
+
