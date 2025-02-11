@@ -92,3 +92,7 @@ Hecho por: Juan Felipe Vega Loaiza
  ![Descripción de la imagen](importante-1.png)
  ## Juego del jardin 
  ![Descripción de la imagen](importante-2.png)
+
+ Pagina web: https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-mrvegal/
+
+
