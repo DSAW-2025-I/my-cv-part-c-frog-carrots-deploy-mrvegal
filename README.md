@@ -85,3 +85,10 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+Hecho por: Juan Felipe Vega Loaiza
+ 
+ ## Juego de la Rana
+ ![Descripción de la imagen](importante-1.png)
+ ## Juego del jardin 
+ ![Descripción de la imagen](importante-2.png)
